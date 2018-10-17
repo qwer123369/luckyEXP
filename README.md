@@ -29,6 +29,11 @@
 
 等会…… 这些我都会解释原因的
 
+
+## 还有这个
+
+[劳务派遣和正式工有什么区别?](http://www.zhaocait.com/hrask/1166.html?tdsourcetag=s_pcqq_aiomsg)
+
 ## 原因
 
 
