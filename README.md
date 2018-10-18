@@ -1,3 +1,5 @@
 ## 流程图打开方式
 
-下载 vscode 安装一个 plantUML 的插件 以及安装java环境
+* 安装jdk，配置 java 环境变量
+* 下载 vscode 安装 plantUML 的扩展插件
+* alt + D 即可预览
